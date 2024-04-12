@@ -1,6 +1,5 @@
 <h1 align="center">Hi 👋, I'm Thiyamini Senanayake</h1>
 <h3 align="center">A Full-Stack developer</h3>
-<img align="right" alt="Coding" width="400" src="https://i.gifer.com/372y.gif">
 
 <p align="left"> <a href="https://twitter.com/thiyajr" target="blank"><img src="https://img.shields.io/twitter/follow/thiyajr?logo=twitter&style=for-the-badge" alt="thiyajr" /></a> </p>
 
@@ -13,6 +12,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/thiyajr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="thiyajr" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/thiyamini senanayake" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="thiyamini senanayake" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
