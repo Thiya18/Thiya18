@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Thiyamini Senanayake</h1>
-<h3 align="center">A Full-Stack developer</h3>
+<h3 align="center">A Front-end developer</h3>
 <img align="right" alt="Coding" width="400" src="https://media1.tenor.com/images/11c5360a19960c9fe2d014f66c283b06/tenor.gif?itemid=17876456">
 
 - 🔭 I’m currently working on **Bus Tracking System**
