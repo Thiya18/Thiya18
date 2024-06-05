@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Thiyamini Senanayake</h1>
-<h3 align="center">A Full-Stack developer</h3>
+<h3 align="center">A Front End developer</h3>
 <img align="right" alt="gif" width="400" src="https://camo.githubusercontent.com/96961b0df9df5abb995f45e4e9029ca0e91644f232b043a48ac74f3d1a162085/68747470733a2f2f692e696d67666c69702e636f6d2f363565667a6f2e676966">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=thiya18&label=Profile%20views&color=0e75b6&style=flat" alt="thiya18" /> </p>
