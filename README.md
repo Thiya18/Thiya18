@@ -4,7 +4,7 @@
 </p>
 
 <!-- Floating GIF -->
-<img align="right" src="https://media.tenor.com/2oesFobKp3UAAAAC/coding-girl.gif" width="200"/>
+<img align="right" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="200"/>
 
 ## 👩‍💻 I'm Thiya Senanayake!
 
@@ -21,6 +21,8 @@ user-friendly interfaces. I believe great design and clean code go hand in hand.
 - ❤️ Contributing to Open Source
 - 🖥️ Always open to collaborating on creative projects!
 
+<br/>
+
 <!-- Skills badges -->
 <p align="left">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
@@ -30,5 +32,12 @@ user-friendly interfaces. I believe great design and clean code go hand in hand.
   <img src="https://img.shields.io/badge/UI%2FUX-A855F7?style=for-the-badge&logo=adobe-xd&logoColor=white"/>
 </p>
 
+<br/>
+
 <!-- Profile views counter -->
 ![](https://komarev.com/ghpvc/?username=Thiya18&label=Profile+views&color=A855F7&style=flat)
+
+<!-- Footer banner -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=FF6EAF,A855F7&height=100&section=footer"/>
+</p>
