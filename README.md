@@ -7,14 +7,14 @@
 <br/>
 
 <!-- Floating GIF -->
-<img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="220"/>
+<img align="right" src="https://media.tenor.com/2oesFobKp3UAAAAC/coding-girl.gif" width="200"/>
 
 ## 👩‍💻 I'm Thiya Senanayake!
 
 *Frontend Developer & UI/UX Enthusiast*
 
-I'm a passionate Frontend Developer with a love for crafting beautiful,
-user-friendly interfaces. I believe great design and clean code go hand in hand.
+I'm a passionate Frontend Developer with a love for crafting beautiful,<br>
+user-friendly interfaces. I believe great design and clean code go hand in hand.<br>
 
 - ✨ Student of life — always learning, always growing
 - 🎨 Obsessed with UI/UX design and pixel-perfect interfaces
