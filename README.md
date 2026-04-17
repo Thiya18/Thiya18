@@ -4,12 +4,11 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF6EAF,50:A855F7,100:6366F1&height=200&section=header&text=Hello+World&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Welcome+to+my+Profile&descAlignY=60&descSize=18" />
 </p>
 
-<!-- Floating GIF -->
-<img align="right" src="https://media.tenor.com/y2JXkY1pXkwAAAAC/cat-computer.gif" width="200"/>
 
 ## 👋 I'm Thiya Senanayake!
-
 *Digital Craftsman (Developer / Programmer)*
+<!-- Floating GIF -->
+<img align="right" src="https://media.tenor.com/y2JXkY1pXkwAAAAC/cat-computer.gif" width="200"/>
 
 I am a passionate Developer who loves building cool things and exploring new technologies.
 
