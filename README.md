@@ -1,9 +1,12 @@
 <!-- Banner -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=FF6EAF,A855F7&height=200&section=header&text=Hello+World&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Welcome+to+my+Profile&descAlignY=60&descSize=18" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=FF6EAF,A855F7,6366F1&height=200&section=header&text=Hello+World&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Welcome+to+my+Profile&descAlignY=60&descSize=18" />
 </p>
 
-<!-- Floating GIF -->
+<br/>
+<br/>
+
+<!-- Floating GIF (pushed down with spacer) -->
 <img align="right" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="200"/>
 
 ## 👩‍💻 I'm Thiya Senanayake!
@@ -37,7 +40,10 @@ user-friendly interfaces. I believe great design and clean code go hand in hand.
 <!-- Profile views counter -->
 ![](https://komarev.com/ghpvc/?username=Thiya18&label=Profile+views&color=A855F7&style=flat)
 
+<br/>
+<br/>
+
 <!-- Footer banner -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=FF6EAF,A855F7&height=100&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=6366F1,A855F7,FF6EAF&height=120&section=footer"/>
 </p>
