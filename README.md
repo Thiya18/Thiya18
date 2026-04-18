@@ -4,7 +4,7 @@
 
 
   
-  <img src="https://capsule-render.vercel.app/api?type=venom&color=0:FF6EAF,50:A855F7,100:6366F1&height=200&section=header&text=Hello+World&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Its+me+Thiya+:)&descAlignY=60&descSize=18" />
+  <img src="https://capsule-render.vercel.app/api?type=venom&color=0:FF6EAF,50:A855F7,100:6366F1&height=100&section=header&text=Hello+World&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Its+me+Thiya+:)&descAlignY=60&descSize=18" />
 </p>
 
 
