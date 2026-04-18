@@ -10,13 +10,27 @@
 <!-- Floating GIF -->
 <img align="right" src="https://media.tenor.com/y2JXkY1pXkwAAAAC/cat-computer.gif" width="200"/>
 
-I am a passionate Developer who loves building cool things and exploring new technologies.
+✨ A passionate girl in tech who loves crafting beautiful digital experiences  
 
-- ✨ Student of life :)
-- 🌱 I'm currently learning many things — every day is a learning opportunity
-- 🧑‍💻 Passionate about clean code and great software
-- ❤️ Contributing to Open Source
-- 🖥️ Always looking to grow and collaborate
+🎨 UI/UX Enthusiast  
+💻 Frontend Developer  
+🌱 Lifelong Learner  
+
+🚀 About Me
+- 💡 I enjoy turning ideas into clean, interactive interfaces  
+- 🎯 Focused on building user-friendly and aesthetic designs  
+- 🌍 Exploring modern frontend technologies  
+- 🤝 Open to collaboration & open-source
+
+  ### 🔥 GitHub Streak
+
+![GitHub Streak](https://streak-stats.demolab.com?user=Thiya18&theme=tokyonight)
+
+🌊 Fun Touch
+"Design is not just how it looks, but how it feels." 💜  
+
+📫 Connect With Me
+💌 Always open for collaborations & creative projects  
 
   <p align="left">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
