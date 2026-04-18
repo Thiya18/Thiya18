@@ -24,7 +24,7 @@
 
   ### 🔥 GitHub Streak
 
-![GitHub Streak](https://streak-stats.demolab.com?user=Thiya18&theme=tokyonight)
+![GitHub Streak](https://streak-stats.demolab.com?user=Thiya18&theme=radical)
 
 🌊 Fun Touch
 "Design is not just how it looks, but how it feels." 💜  
