@@ -46,5 +46,5 @@
 
 <!-- Footer banner -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=venom&color=0:6366F1,50:A855F7,100:FF6EAF&height=120&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6366F1,50:A855F7,100:FF6EAF&height=120&section=footer"/>
 </p>
