@@ -12,9 +12,7 @@
 
 ✨ A passionate girl in tech who loves crafting beautiful digital experiences  
 
-🎨 UI/UX Enthusiast  
-💻 Frontend Developer  
-🌱 Lifelong Learner  
+🎨 UI/UX Enthusiast | 💻 Frontend Developer |🌱 Lifelong Learner  
 
 🚀 About Me
 - 💡 I enjoy turning ideas into clean, interactive interfaces  
@@ -22,7 +20,7 @@
 - 🌍 Exploring modern frontend technologies  
 - 🤝 Open to collaboration & open-source
 
-  ### 🔥 GitHub Streak
+🔥 GitHub Streak
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=Thiya18&theme=radical)
 
