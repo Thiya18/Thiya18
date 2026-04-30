@@ -9,7 +9,6 @@
 
 
 ## 👋 I'm Thiya Senanayake!
-*Digital Craftsman (Developer / Programmer)*
 <!-- Floating GIF -->
 <img align="right" src="https://media.tenor.com/y2JXkY1pXkwAAAAC/cat-computer.gif" width="200"/>
 
